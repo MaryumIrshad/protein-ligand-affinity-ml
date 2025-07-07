@@ -88,25 +88,25 @@ They are widely used in drug discovery for:
 
 1. Clone the repository:
    
-   git clone https://github.com/MaryumIrshad/protein-ligand-affinity-ml.git
-   cd protein-ligand-affinity-ml
+   git clone https://github.com/yourusername/protein-ligand-ml.git
+   cd protein-ligand-ml
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
    
    conda create -n molbindenv python=3.9
    conda activate molbindenv
 
-3. Install dependencies
+4. Install dependencies
 
    pip install -r requirements.txt
 
-4. Run the pipline
+5. Run the pipline
    python src/parse_index.py
    python feature_extraction.py
    python src/final_dataset.py
    python src/ml_model.py
 
-5. View Results
+6. View Results
    - output scores for all the models will be saved in `results/` folder
    - scattering plots for each model will be saved there too
 

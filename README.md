@@ -1,6 +1,6 @@
 # Protein-ligand Binding Affinity Prediction
 
-This min-project aims to predict protein-ligand binding affinity using machine learning models trained on molecular fingerprints derived from ligand structures. The goal is to showcase practical ML skills applied to cheminformatics and regression tasks.
+This mini-project aims to predict protein-ligand binding affinity using machine learning models trained on molecular fingerprints derived from ligand structures. The goal is to showcase practical ML skills applied to cheminformatics and regression tasks.
  
 
 ## Project Structure 

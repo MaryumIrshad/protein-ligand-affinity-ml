@@ -88,7 +88,7 @@ They are widely used in drug discovery for:
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/protein-ligand-ml.git
+   git clone https://github.com/MaryumIrshad/protein-ligand-affinity-ml.git
    cd protein-ligand-ml
 
 2. Create and activate a virtual environment:
